@@ -60,10 +60,10 @@ if __name__ == '__main__':
 
     # config.iniの値を取得
 
-    CLIENT_ID = 'G4DUHAHCU7GnAwvBL21Yv6ydlwgrt7wY'
-    CLIENT_SECRET = 'BAShx4FdosyszK3I'
-    DEVELOPER_API_BASE_URL = 'https://api.ce-cotoha.com/api/dev/'
-    ACCESS_TOKEN_PUBLISH_URL = 'https://api.ce-cotoha.com/v1/oauth/accesstokens'
+    CLIENT_ID = ''
+    CLIENT_SECRET = ''
+    DEVELOPER_API_BASE_URL = ''
+    ACCESS_TOKEN_PUBLISH_URL = ''
 
     cotoha_api = CotohaApi(CLIENT_ID, CLIENT_SECRET, DEVELOPER_API_BASE_URL, ACCESS_TOKEN_PUBLISH_URL)
 
