@@ -1,0 +1,14 @@
+{
+    "result": {
+        "sentiment": "Positive",
+        "score": 0.592716631134498,
+        "emotional_phrase": [
+            {
+                "form": "好きだよ",
+                "emotion": "P"
+            }
+        ]
+    },
+    "status": 0,
+    "message": "OK"
+}
